@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>my first html assignment</title>
+<p>Hello World</p>
+<body>
+<nav>
+<a href="https://www.bing.com/videos/search?q=dogs+youtube&docid=608017938706615381&mid=445DDB1F5212DF2B61C8445DDB1F5212DF2B61C8&view=detail&FORM=VIRE">Funny Dog Video</a>
+<a href="file:///C:/Users/jonah/OneDrive/Documents/HTML%20project%20%231.html">HOME</a>
+<a href="file:///C:/Users/jonah/OneDrive/Documents/Dog%20Pic.html">Dog Pic</a>
+</nav>
+</body>
+</html>
