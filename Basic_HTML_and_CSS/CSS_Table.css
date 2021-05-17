@@ -1,0 +1,18 @@
+table {
+	border: 1px solod silver;
+}
+
+td:hover {
+	backround-color: yellow;
+	color: black;
+}
+
+tr, th {
+	backround-color:black;
+	color: cornsilk;
+}
+
+tr, td {
+	backround-color: darkgreen;
+	color:white;
+}
