@@ -16,9 +16,9 @@ h1 {
 	border-radius: 5%;
 }
 
-/*---------------------------------------------
+/*------------------------------------------------
 	SELECT ALL SQUARES IN THE ARRAY
------------------------------------------------*/
+--------------------------------------------------*/
 .container .squares:nth-child(-n+4) {
 	background-image: url("../Images/Icons/big_smile.png");
 	color: #fff;
@@ -29,10 +29,59 @@ h1 {
 	border: 1px solid black;
 	border-radius: 25%;
 	cursor: pointer;
+	transition: transform .5s ease-in-out;
 }
 
-/*---------------------------------------------
+/*------------------------------------------------
 	SELECT ALL SQUARES PARAGRAPHS IN THE ARRAY
------------------------------------------------*/
+--------------------------------------------------*/
 .squares:nth-child(-n+4) {
-	
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1.5cm;
+	font-weight: 900;
+	text-align: center;
+	margin: 0;
+	text-shadow: 2pc 1px 4px rgba(0,0,0, 0.8);
+}
+
+/*------------------------------------------------
+	INDIVIDUALLY SELECT ALL SQUARES IN THE ARRAY
+--------------------------------------------------*/
+.squares:nth-child(1) {
+	background: #4240ff;
+}
+
+.squares:nth-child(2) {
+	background: #ab3fdd;
+}
+
+.squares:nth-child(3) {
+	background: #ae163e;
+}
+
+.squares:nth-child(4) {
+	background: #00b200;
+}
+
+/*------------------------------------------------
+	HOVER EFFECTS
+--------------------------------------------------*/
+.container .squares:nth-child(-n+4):hover {
+	background-image: url("../Images/Icons/smiles.png");
+}
+
+.squares:nth-child(1) :hover {
+	background: #13b4ff;
+}
+
+.squares:nth-child(2) :hover {
+	background: #d861af;
+}
+
+.squares:nth-child(3) :hover {
+	background: #81205f;
+}
+
+.squares:nth-child(4) :hover {
+	background: #77b800;
+}
