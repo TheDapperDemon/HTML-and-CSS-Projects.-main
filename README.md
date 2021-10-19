@@ -4,12 +4,11 @@ Intrp: This repository is design to contain all of my projects in the HTML and C
 
 Tech: HTML and CSS
 
-Launch: 
 
 Examples of Use:
 
-The Space Station Website
+The Space Station Website - Implimentation of CSS to display a "space station" webpage in order to market their new space tours! This page offers a slideshow, signup form, and various navigation links.
 
-Movie Cinemas Website
+Movie Cinemas Website - I simple site made foe the purpose of booking movie tickets, not only will it display the movie pannels with discriptions an times, but you will have an option to 'book tickets now'
 
-Portfolio Website
+Portfolio Website - A webpage utilizing CSS and JS to display all of my information for software dev and my projects for portential employers.
