@@ -27,7 +27,7 @@ h1:hover {
 
 /* Paragraph elements */
 p {
-    font-family: Perpetua, Rockwell Extra Bold;
+    font-family: 'Times New Roman', Times, serif Extra Bold;
     text-align: justify; /* Justify text within paragraph elements */
     letter-spacing: 1px; /* This expands the text slightly */
     font-size: 20px;
